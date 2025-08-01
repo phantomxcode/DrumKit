@@ -4,7 +4,7 @@ An interactive drum kit built using HTML, CSS, and JavaScript. Press keys or cli
 
 ## How to Run
 
-1. Download the following files:
+1. Download the following files :
    - `index.html`
    - `styles.css`
    - `index.js`
